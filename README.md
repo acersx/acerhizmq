@@ -1,4 +1,4 @@
-<h2 align="center">Who is Acerhizm? <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px"> </h2>
+<h2 align="center">Who is Acerhizmq or Acerhizm? <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px"> </h2>
 
 - Hello I'm Bedirhan
 - I like to find and update bots in Github repositories.
