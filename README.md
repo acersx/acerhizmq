@@ -9,4 +9,4 @@
 
 <h1 align="center"> My Discord Acc </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/340047062068494337?hideDiscrim=false)](https://discord.com/users/340047062068494337)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/340047062068494337?hideDiscrim=true)](https://discord.com/users/340047062068494337)
