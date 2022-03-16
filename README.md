@@ -1,11 +1,7 @@
-<h2 align="center">Who is Acerhizmq or Acerhizm? <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px"> </h2>
-
-- Hello I'm Bedirhan
-- I like to find and update bots in Github repositories.
-
-<h3> Social Media </h3>
-
-[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/acerhizm/)
+<h2 align="center">Hi there , I'm Acerhizm </h2>
+![Profiel View Count](https://komarev.com/ghpvc/?username=Acerhizmq&color=000000)&nbsp;
+[![GitHub Acerhizm](https://img.shields.io/github/followers/Acerhizmq?label=follow&style=social)](https://github.com/Acerhizmq)&nbsp;
+<a href="https://instagram.com/acerhizm"><img src="https://img.shields.io/badge/@acerhizm-000000?style=flat&logo=Instagram&logoColor=white
 
 <h1 align="center"> My Discord Acc </h1>
 
