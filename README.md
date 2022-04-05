@@ -5,4 +5,4 @@
 
 # Discord Acc
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/340047062068494337?hideDiscrim=true)](https://discord.com/users/340047062068494337)
+[![Discord Presence](api.lanyard.rest/v1/users/:340047062068494337)](https://discord.com/users/340047062068494337)
