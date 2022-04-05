@@ -5,4 +5,4 @@
 
 # Discord Acc
 
-[![Discord Presence](api.lanyard.rest/v1/users/:340047062068494337)](https://discord.com/users/340047062068494337)
+[![Discord Presence](api.lanyard.rest/v1/users/:340047062068494337)
